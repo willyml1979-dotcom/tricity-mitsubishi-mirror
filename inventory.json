@@ -1,6 +1,6 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-25T14:34:21",
+  "generated_at": "2026-10-25T15:14:39",
   "vehicle_count": 304,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1594,17 +1594,6 @@
     },
     {
       "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4ATVAA3TZ615071",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/414dcde45b47.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "new",
-      "price": 34273.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
       "vin": "JA4ATVAA5TZ615492",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/30464d5814b6.html",
       "year": 2026,
@@ -1780,6 +1769,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mitsubishi Eclipse Cross ",
+      "vin": "JA4ATVAA2TZ615952",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/45b68e4a3914.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "new",
+      "price": 35073.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Eclipse Cross ",
+      "vin": "JA4ATUAA0TZ604832",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/12e615ec8b78.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "new",
+      "price": 26623.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mitsubishi Outlander PHEV GT Premium -FREE GAS FOR 2 YEARS!",
       "vin": "JA4T5WA9XTZ608312",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/4f0ed82cd0b1.html",
@@ -1843,17 +1854,6 @@
       "model": "Outlander PHEV",
       "condition": "new",
       "price": 59673.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV GT - Heads Up Display, FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA99TZ610357",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/ffdb497e5d10.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 59473.0,
       "price_currency": "CAD"
     },
     {
@@ -2902,17 +2902,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander GT Premium - FREE GAS FOR A YEAR!",
-      "vin": "JA4J4WAB5TZ620011",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/502a7b480035.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 48573.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander LE - Navigation, FREE GAS FOR A YEAR!",
       "vin": "JA4J4VAB1TZ621148",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/4b6bc38ffff5.html",
@@ -2943,17 +2932,6 @@
       "model": "Outlander",
       "condition": "new",
       "price": 48023.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander LE - Navigation, FREE GAS FOR A YEAR!",
-      "vin": "JA4J4VAB2TZ621479",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/485312819775.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 42073.0,
       "price_currency": "CAD"
     },
     {
@@ -3009,6 +2987,17 @@
       "model": "Outlander",
       "condition": "new",
       "price": 41923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Outlander ",
+      "vin": "JA4J4UAB4TZ622076",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0430bb1b8cdd.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "new",
+      "price": 33773.0,
       "price_currency": "CAD"
     },
     {
@@ -3089,17 +3078,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi RVR SE AWC - FREE GAS FOR 1 YEAR!",
-      "vin": "JA4AJVAW5TU606273",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/3389659b8489.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 30773.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi RVR ES AWC -FREE GAS FOR A YEAR! Manager Demo",
       "vin": "JA4AJUAUXTU601675",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/63a001fdf844.html",
@@ -3130,28 +3108,6 @@
       "model": "RVR",
       "condition": "new",
       "price": 30623.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi RVR Noir - Black Alloy Wheels, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4AJVAW1TU607310",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/6528211cd220.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 34923.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi RVR Noir - Black Alloy Wheels, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4AJVAW6TU607173",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/d721cfed25cc.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 34773.0,
       "price_currency": "CAD"
     },
     {
@@ -3210,6 +3166,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mitsubishi RVR ",
+      "vin": "JA4AJUAU1TU608059",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/87c629655a49.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 24673.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Tesla Model 3 ",
       "vin": "LRW3E7FA1TC838125",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c1c0711ba1b9.html",
@@ -3240,6 +3207,28 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi  Eclipse Sportback EV Tech Package - Leather, Navi",
+      "vin": "JN1MZ2HB1VM401620",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/b36b12e2d547.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse Sportback EV Tech Package - Leather, Navi",
+      "condition": "new",
+      "price": 56753.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi  Eclipse Sportback EV - 3D Multi View Camera System",
+      "vin": "JN1MZ2HB0VM401348",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/408d396a7dd7.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse Sportback EV - 3D Multi View Camera System",
+      "condition": "new",
+      "price": 51653.0,
       "price_currency": "CAD"
     },
     {
@@ -3288,6 +3277,17 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "new"
+    },
+    {
+      "name": "2027 Mitsubishi Outlander SEL - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "vin": "JA4J4VAB2VZ601221",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/299a18247f5e.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "new",
+      "price": 48753.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Mitsubishi RVR ES AWC - FREE GAS FOR 1 YEAR!",
