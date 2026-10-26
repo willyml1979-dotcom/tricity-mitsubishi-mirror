@@ -1,7 +1,7 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-26T00:12:24",
-  "vehicle_count": 304,
+  "generated_at": "2026-10-26T00:55:13",
+  "vehicle_count": 303,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2957,14 +2957,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander Noir - Black Alloy Wheels, Free Gas For 1 year!",
+      "name": "2026 Mitsubishi Outlander Noir - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4J4WAB0TZ612060",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/89ded82d7e0c.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "new",
-      "price": 50373.0,
+      "price": 47873.0,
       "price_currency": "CAD"
     },
     {
@@ -3078,25 +3078,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi RVR ES AWC -FREE GAS FOR A YEAR! Manager Demo",
+      "name": "2026 Mitsubishi RVR ES AWC - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4AJUAUXTU601675",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/63a001fdf844.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "new",
-      "price": 28473.0,
+      "price": 24223.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi RVR ES AWC - FREE GAS FOR A YEAR, Manager Demo",
+      "name": "2026 Mitsubishi RVR ES AWC - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4AJUAU7TU602525",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/30c46ed1a329.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "new",
-      "price": 28773.0,
+      "price": 24523.0,
       "price_currency": "CAD"
     },
     {
@@ -3156,17 +3156,6 @@
     },
     {
       "name": "2026 Mitsubishi RVR ",
-      "vin": "JA4AHUAU4TU604941",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/84bfd970afe8.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 27523.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi RVR ",
       "vin": "JA4AJUAU1TU608059",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/87c629655a49.html",
       "year": 2026,
@@ -3221,17 +3210,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Mitsubishi  Eclipse Sportback EV - 3D Multi View Camera System",
-      "vin": "JN1MZ2HB0VM401348",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/408d396a7dd7.html",
-      "year": 2027,
-      "make": "Mitsubishi",
-      "model": "Eclipse Sportback EV - 3D Multi View Camera System",
-      "condition": "new",
-      "price": 51653.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Mitsubishi Eclipse",
       "vin": "JN1MZ2HB0VM401978",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/505f61be022d.html",
@@ -3248,6 +3226,17 @@
       "make": "Mitsubishi",
       "model": "Eclipse",
       "condition": "new"
+    },
+    {
+      "name": "2027 Mitsubishi Eclipse Eclipse Sportback EV - 3D Multi View Camera System",
+      "vin": "JN1MZ2HB0VM401348",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/c9f62a7144fe.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse Eclipse Sportback EV - 3D Multi View Camera System",
+      "condition": "new",
+      "price": 51653.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Mitsubishi Outlander SE",
