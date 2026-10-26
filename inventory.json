@@ -1,6 +1,6 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-26T00:55:13",
+  "generated_at": "2026-10-26T08:43:50",
   "vehicle_count": 303,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -39,7 +39,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Mazda CX-5 GT",
+      "name": "2015 Mazda CX-5 GT - Leather, Sunroof, Navi, Backup Camera",
       "vin": "JM3KE4DY1F0431996",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/e9c321f7fda4.html",
       "year": 2015,
@@ -310,13 +310,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Tucson",
+      "name": "2021 Hyundai Tucson Preferred - No Accidents, Sunroof, Heated Seats",
       "vin": "KM8J3CAL4MU319093",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/d73b65b9dfa6.html",
       "year": 2021,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 Lexus IS Sedan 300 - F Sport 2, No Accidents, Sunroof, Navi",
@@ -786,7 +788,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 27995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -863,7 +865,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 23888.0,
+      "price": 22888.0,
       "price_currency": "CAD"
     },
     {
@@ -896,7 +898,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 22995.0,
+      "price": 20888.0,
       "price_currency": "CAD"
     },
     {
@@ -1384,7 +1386,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE",
+      "name": "2026 Mitsubishi Eclipse Cross SE - No Accidents, 1 Owner, Heated Steering Wheel",
       "vin": "JA4ATVAA1TZ617398",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/724fd3015c7f.html",
       "year": 2026,
@@ -1395,7 +1397,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander ",
+      "name": "2026 Mitsubishi Outlander GT - No Accidents, Ventilated Seats, Navigation",
       "vin": "JA4J4WAB4TZ603815",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9316e8a439d9.html",
       "year": 2026,
