@@ -1,6 +1,6 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-26T08:43:50",
+  "generated_at": "2026-10-26T09:27:54",
   "vehicle_count": 303,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1749,25 +1749,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Manager Demo, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4ATVAAXTZ604326",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e641bb516d8e.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 33873.0,
+      "price": 30123.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Manager Demo, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4ATVAA8TZ606124",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/489610297db2.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34173.0,
+      "price": 30423.0,
       "price_currency": "CAD"
     },
     {
@@ -2453,25 +2453,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV Noir - Manager Demo, FREE GAS FOR 2 YEARS!",
+      "name": "2026 Mitsubishi Outlander PHEV Noir - Manager Demo, Up To $10,000 Discount!",
       "vin": "JA4T5WA92TZ611110",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/662a3bd9759c.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 61923.0,
+      "price": 56173.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV Noir - Manager Demo, FREE GAS FOR 2 YEARS!",
+      "name": "2026 Mitsubishi Outlander PHEV Noir - Manager Demo, Up To $10,000 Discount!",
       "vin": "JA4T5WA92TZ618848",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/d21ef9cfd7b9.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "new",
-      "price": 61623.0,
+      "price": 55873.0,
       "price_currency": "CAD"
     },
     {
@@ -3146,14 +3146,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi RVR ES AWC - Manager Demo, FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi RVR ES AWC - Manager Demo, Up To $5,000 Discount!",
       "vin": "JA4AJUAU8TU601674",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/274674b28714.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "new",
-      "price": 28473.0,
+      "price": 24223.0,
       "price_currency": "CAD"
     },
     {
@@ -3201,17 +3201,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Mitsubishi  Eclipse Sportback EV Tech Package - Leather, Navi",
-      "vin": "JN1MZ2HB1VM401620",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/b36b12e2d547.html",
-      "year": 2027,
-      "make": "Mitsubishi",
-      "model": "Eclipse Sportback EV Tech Package - Leather, Navi",
-      "condition": "new",
-      "price": 56753.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Mitsubishi Eclipse",
       "vin": "JN1MZ2HB0VM401978",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/505f61be022d.html",
@@ -3228,6 +3217,17 @@
       "make": "Mitsubishi",
       "model": "Eclipse",
       "condition": "new"
+    },
+    {
+      "name": "2027 Mitsubishi Eclipse Eclipse Sportback EV Tech Package - Leather, Navi",
+      "vin": "JN1MZ2HB1VM401620",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/837c37df341e.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Eclipse Eclipse Sportback EV Tech Package - Leather, Navi",
+      "condition": "new",
+      "price": 56753.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Mitsubishi Eclipse Eclipse Sportback EV - 3D Multi View Camera System",
