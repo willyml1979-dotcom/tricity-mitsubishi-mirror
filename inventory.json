@@ -1,6 +1,6 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-25T15:14:39",
+  "generated_at": "2026-10-26T00:12:24",
   "vehicle_count": 304,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -414,7 +414,7 @@
       "make": "BMW",
       "model": "X6",
       "condition": "used",
-      "price": 45888.0,
+      "price": 44888.0,
       "price_currency": "CAD"
     },
     {
@@ -678,7 +678,7 @@
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "used",
-      "price": 56995.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -764,7 +764,7 @@
       "make": "Cadillac",
       "model": "Lyriq",
       "condition": "used",
-      "price": 56700.0,
+      "price": 54888.0,
       "price_currency": "CAD"
     },
     {
@@ -775,7 +775,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "used",
-      "price": 139995.0,
+      "price": 134995.0,
       "price_currency": "CAD"
     },
     {
