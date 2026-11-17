@@ -1,10 +1,37 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-10-26T09:27:54",
-  "vehicle_count": 303,
+  "generated_at": "2026-11-17T10:45:08",
+  "vehicle_count": 343,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2002 Mazda Protege Wagon",
+      "vin": "JM1BJ245821568436",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b35daa00ff4f.html",
+      "year": 2002,
+      "make": "Mazda",
+      "model": "Protege Wagon",
+      "condition": "used"
+    },
+    {
+      "name": "2008 Mazda CX-7",
+      "vin": "JM3ER293680206365",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/70e01d6e6473.html",
+      "year": 2008,
+      "make": "Mazda",
+      "model": "CX-7",
+      "condition": "used"
+    },
+    {
+      "name": "2009 Honda Civic Sedan",
+      "vin": "2HGFA15219H018508",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/de60de3eddfa.html",
+      "year": 2009,
+      "make": "Honda",
+      "model": "Civic Sedan",
+      "condition": "used"
+    },
     {
       "name": "2009 Nissan GT-R - Vossen Wheels, Upgraded Intakes",
       "vin": "JN1AR54F69M251796",
@@ -17,26 +44,85 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Mercedes-Benz E-Class Sedan - Backup Camera, Heated Seats, Sunroof",
-      "vin": "WDDHF2EB2BA484747",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/bdd7b0db366f.html",
-      "year": 2011,
-      "make": "Mercedes-Benz",
-      "model": "E-Class",
-      "condition": "used",
-      "price": 13888.0,
-      "price_currency": "CAD"
+      "name": "2009 Volkswagen Jetta Sedan",
+      "vin": "3VWJM71K89M059371",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b9569b58e20e.html",
+      "year": 2009,
+      "make": "Volkswagen",
+      "model": "Jetta Sedan",
+      "condition": "used"
     },
     {
-      "name": "2015 Ford Escape Titanium - Leather, Sunroof, Navi, Backup Camera",
-      "vin": "1FMCU9J99FUC16185",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1da8b43b4373.html",
+      "name": "2012 BMW 1 Series Convertible",
+      "vin": "WBAUL7C56CVM82017",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/bc314c6bbae4.html",
+      "year": 2012,
+      "make": "BMW",
+      "model": "1 Series",
+      "condition": "used"
+    },
+    {
+      "name": "2012 Dodge Journey SE Plus",
+      "vin": "3C4PDCAB1CT150100",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b60854ee71d1.html",
+      "year": 2012,
+      "make": "Dodge",
+      "model": "Journey",
+      "condition": "used"
+    },
+    {
+      "name": "2012 Ford Explorer",
+      "vin": "1FMHK8B83CGA75751",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/af5022ca4ee1.html",
+      "year": 2012,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used"
+    },
+    {
+      "name": "2012 Hyundai Santa Fe",
+      "vin": "5XYZHDAG1CG143766",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/89ee989ea72b.html",
+      "year": 2012,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used"
+    },
+    {
+      "name": "2014 Hyundai Elantra",
+      "vin": "5NPDH4AE5EH510561",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/3ae20c59b675.html",
+      "year": 2014,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used"
+    },
+    {
+      "name": "2014 Volkswagen Jetta Sedan",
+      "vin": "3VWL07AJ4EM353341",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c54bc2d264e2.html",
+      "year": 2014,
+      "make": "Volkswagen",
+      "model": "Jetta Sedan",
+      "condition": "used"
+    },
+    {
+      "name": "2015 Dodge Journey",
+      "vin": "3C4PDCAB2FT655244",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/d75cd3299696.html",
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Journey",
+      "condition": "used"
+    },
+    {
+      "name": "2015 Ford Escape",
+      "vin": "1FMCU9GX7FUA01426",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9fca3dc1bd5a.html",
       "year": 2015,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used",
-      "price": 11995.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2015 Mazda CX-5 GT - Leather, Sunroof, Navi, Backup Camera",
@@ -50,15 +136,31 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Mazda Mazda3 Sedan GS - Sunroof, Heated Seats, Backup Camera",
-      "vin": "3MZBM1V7XGM296464",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/eb9d4efa7f03.html",
+      "name": "2015 Nissan Sentra",
+      "vin": "3N1AB7AP2FL642933",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c79f587ff109.html",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used"
+    },
+    {
+      "name": "2016 Dodge Grand Caravan Passenger Van",
+      "vin": "2C4RDGDG9GR381536",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/a4d0d8a77b64.html",
       "year": 2016,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "condition": "used"
+    },
+    {
+      "name": "2016 Nissan Rogue",
+      "vin": "5N1AT2MV8GC869687",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c6f12d2d41ea.html",
+      "year": 2016,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used"
     },
     {
       "name": "2017 Chevrolet Cruze Sedan LT - No Accidents, Heated Seats, BlueTooth",
@@ -72,6 +174,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 RAM 1500",
+      "vin": "1C6RR7HT0HS837584",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c43ea4651c71.html",
+      "year": 2017,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
+    },
+    {
       "name": "2018 Dodge Challenger SXT Plus - Parking Sensors, Dual Climate Control",
       "vin": "2C3CDZAGXJH304715",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/524f0440b945.html",
@@ -81,6 +192,15 @@
       "condition": "used",
       "price": 24995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Jaguar F-Pace",
+      "vin": "SADCK2FN2JA248319",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/82f8120de259.html",
+      "year": 2018,
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "condition": "used"
     },
     {
       "name": "2018 Mercedes-Benz C-Class Coupe C 43 AMG - 360 Cameras, Sunroof, Parking Sensors",
@@ -94,6 +214,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Mercedes-Benz S-Class Sedan ",
+      "vin": "WDDUG8GB4JA419215",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1e603a28a16c.html",
+      "year": 2018,
+      "make": "Mercedes-Benz",
+      "model": "S-Class Sedan",
+      "condition": "used",
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Mitsubishi Eclipse Cross ES - Heated Seats, Apple CarPlay, Android Auto",
       "vin": "JA4AT3AA0JZ617944",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/f2f27485b6f3.html",
@@ -102,6 +233,28 @@
       "model": "Eclipse Cross",
       "condition": "used",
       "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Porsche Macan - No Accidents, Ventilated Seats, Sunroof",
+      "vin": "WP1AA2A57JLB11425",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/814a351e74f7.html",
+      "year": 2018,
+      "make": "Porsche",
+      "model": "Macan",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Audi Q7 ",
+      "vin": "WA1MAAF77KD004416",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/6f1efc4f28f2.html",
+      "year": 2019,
+      "make": "Audi",
+      "model": "Q7",
+      "condition": "used",
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -136,6 +289,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Hyundai ACCENT Hatchback Preferred - Heated Seats, BlueTooth",
+      "vin": "3KPC25A30KE085882",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/fa7538cde00d.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Accent",
+      "condition": "used",
+      "price": 12995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Hyundai Tucson",
+      "vin": "KM8J3CAL0KU844732",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1d4df6f98d2d.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used"
+    },
+    {
+      "name": "2019 Kia Sorento",
+      "vin": "5XYPHDA31KG514024",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c5325c28d4b9.html",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used"
+    },
+    {
       "name": "2019 Mercedes-Benz CLA Coupe 250 - Navigation, Heated Seats, BlueTooth",
       "vin": "WDDSJ4GB3KN747317",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/5c889c25ea87.html",
@@ -143,7 +325,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 26995.0,
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -165,7 +347,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 16995.0,
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -191,14 +373,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Audi A3 Sedan ",
-      "vin": "WAUKEGFF3LA059697",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/329cf1f32740.html",
+      "name": "2020 Chevrolet Equinox LT - Sunroof, Navigation, Heated Seats",
+      "vin": "2GNAXVEX7L6243469",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/6f8f61fbfcbd.html",
       "year": 2020,
-      "make": "Audi",
-      "model": "A3 Sedan",
+      "make": "Chevrolet",
+      "model": "Equinox",
       "condition": "used",
-      "price": 28995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -224,6 +406,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Ford Ranger",
+      "vin": "1FTER4FH2LLA43435",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1d444fdaa4f1.html",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "used"
+    },
+    {
       "name": "2020 Honda Civic Sedan LX - Heated Seats, Adaptive Cruise Control",
       "vin": "2HGFC2F58LH007523",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/670e891711cd.html",
@@ -246,12 +437,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mitsubishi Eclipse Cross SE",
-      "vin": "JA4AT4AA4LZ607622",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/43385fffb330.html",
+      "name": "2020 Mazda CX-9",
+      "vin": "JM3TCBCY6L0408807",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0c7fea29883c.html",
       "year": 2020,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
+      "make": "Mazda",
+      "model": "CX-9",
       "condition": "used"
     },
     {
@@ -277,17 +468,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Audi Q8 Technik - Ventilated Seats, Navigation, Sunroof",
-      "vin": "WA1FVAF15MD014776",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/5a05da4133d7.html",
-      "year": 2021,
-      "make": "Audi",
-      "model": "Q8",
-      "condition": "used",
-      "price": 35888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Audi SQ5 Progressiv - Red Interior, Navigation, 360 Cameras",
       "vin": "WA1A4AFY0M2060618",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/991229c13f6c.html",
@@ -307,17 +487,6 @@
       "model": "M2 Competition - Manual, Navigation, Sunroof",
       "condition": "used",
       "price": 62995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Tucson Preferred - No Accidents, Sunroof, Heated Seats",
-      "vin": "KM8J3CAL4MU319093",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/d73b65b9dfa6.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -343,6 +512,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Mercedes-Benz GLE",
+      "vin": "4JGFB8KB8MA286418",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/96de00c11cb3.html",
+      "year": 2021,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "condition": "used"
+    },
+    {
       "name": "2021 Mitsubishi RVR SE - Heated Seats, Apple CarPlay, Android Auto",
       "vin": "JA4AHUAU5MU601466",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/7d1d5a177caf.html",
@@ -352,6 +530,48 @@
       "condition": "used",
       "price": 17995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mitsubishi RVR SE AWC - Heated Seats, Apple CarPlay, Android Auto",
+      "vin": "JA4AJVAW8MU602137",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/db10b5fbedc5.html",
+      "year": 2021,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Porsche Taycan Cross Turismo ",
+      "vin": "WP0BA2Y14MSA71147",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/6901d9c64599.html",
+      "year": 2021,
+      "make": "Porsche",
+      "model": "Taycan",
+      "condition": "used",
+      "price": 78995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Porsche Taycan 4S - No Accidents, Performance Package, Navigation",
+      "vin": "WP0AB2Y19MSA45233",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/29b1487137d6.html",
+      "year": 2021,
+      "make": "Porsche",
+      "model": "Taycan",
+      "condition": "used",
+      "price": 79995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 RAM 1500 Classic Quad Cab",
+      "vin": "1C6RR7FG2MS547668",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/f354c4705681.html",
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500 Classic Quad Cab",
+      "condition": "used"
     },
     {
       "name": "2021 Tesla Model 3 Standard Range Plus - Local BC Vehicle",
@@ -376,6 +596,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Audi Q4 e-tron Technik",
+      "vin": "WA1M2AFZ8NP049382",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b54f39b1e41a.html",
+      "year": 2022,
+      "make": "Audi",
+      "model": "Q4 e-tron",
+      "condition": "used",
+      "price": 41995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 BMW iX xDrive50 - Navigation, 360 Cameras, Manager Demo",
       "vin": "WB523CF07NCK49874",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/8d5c1c1b35ff.html",
@@ -384,17 +615,6 @@
       "model": "iX",
       "condition": "used",
       "price": 63995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW M3 Sedan - Manual, Carbon Package, Premium Package",
-      "vin": "WBS53AY0XNFN09968",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/45b384ac934e.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "M3 Sedan - Manual, Carbon Package, Premium Package",
-      "condition": "used",
-      "price": 82888.0,
       "price_currency": "CAD"
     },
     {
@@ -431,6 +651,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Ford Bronco Sport",
+      "vin": "3FMCR9D93NRD61998",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/36e7936ccba2.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "used"
+    },
+    {
       "name": "2022 Ford F-150 Raptor - No Accidents, Ventilated Leather Seats",
       "vin": "1FTFW1RG7NFC19363",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/27e2576e8f4b.html",
@@ -439,6 +668,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 79995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford F-150 Lariat - No Accidents, Ventilated Seats, Navi",
+      "vin": "1FTEW1EP1NKD59711",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c74a829c49ca.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
@@ -486,6 +726,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Mercedes-Benz C-Class Convertible C 300 - Red Interior, Navigation, 360 Cameras",
+      "vin": "W1KWK8EB3NG109070",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/262f50bd8376.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mercedes-Benz EQB 350 - Sunroof, Heated Seats, Memory Seats",
+      "vin": "W1N9M1DB4NN012247",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9622382da5dd.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "EQB",
+      "condition": "used",
+      "price": 45995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Mercedes-Benz G-Class G 63 AMG- Highly Optioned, Carbon Pack, Wood Back",
       "vin": "W1NYC7HJ4NX444019",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/df28cde65e0c.html",
@@ -494,6 +756,17 @@
       "model": "G-Class G 63 AMG- Highly Optioned, Carbon Pack, Wood Back",
       "condition": "used",
       "price": 192888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mitsubishi Eclipse Cross SE - Apple CarPlay, Android Auto, Heated Seats",
+      "vin": "JA4ATVAA6NZ609090",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0fda4570b40a.html",
+      "year": 2022,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "used",
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -519,6 +792,26 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Mitsubishi Outlander ",
+      "vin": "JA4J4UA88NZ620581",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/26639f117dc2.html",
+      "year": 2022,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Maxima Sedan SL - Navigation, Sunroof, Leather, Heated Seats",
+      "vin": "1N4AA6DV5NC506140",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0b1cff7ef918.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Maxima",
+      "condition": "used"
+    },
+    {
       "name": "2022 Porsche Macan - Navigation, Ventilated Seats, Sunroof",
       "vin": "WP1AA2A58NLB09611",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/a0446a94ca30.html",
@@ -527,17 +820,6 @@
       "model": "Macan - Navigation, Ventilated Seats, Sunroof",
       "condition": "used",
       "price": 47995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Audi Q5 Sportback Progressiv - 1 Owner, 360 Cameras, Navigation",
-      "vin": "WA14AAFY7P2067897",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/28d6791ef75b.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
@@ -552,14 +834,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Audi Q7 Progressiv - 1 Owner, Heated & Ventilated Seats",
-      "vin": "WA1MXBF70PD012692",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/795fb0f39901.html",
+      "name": "2023 BMW 4 Series Convertible 430i xDrive - Navigation, Heated Seats",
+      "vin": "WBA43AT06PCM73305",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/74de300ff773.html",
       "year": 2023,
-      "make": "Audi",
-      "model": "Q7",
+      "make": "BMW",
+      "model": "4 Series",
       "condition": "used",
-      "price": 46995.0,
+      "price": 52995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW i4 eDrive35 - Navigation, Parking Sensors",
+      "vin": "WBY43AW00PFP45326",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/8756364584a3.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "i4",
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW iX xDrive40 - One Owner, 360 Cameras, Navigation",
+      "vin": "WB513CF04PCM09711",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0ae32ee35016.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 55995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW iX xDrive40 - 360 Cameras, Panoramic Sunroof",
+      "vin": "WB513CF01PCK46497",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/12c2bf7ba5ae.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "iX",
+      "condition": "used",
+      "price": 57995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 BMW X3 xDrive30e - Panoramic Sunroof, Navigation",
+      "vin": "5UX63DP09P9N67164",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/865cb90d49f2.html",
+      "year": 2023,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used",
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -596,36 +922,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Silverado 1500 ZR2 - No Accidents, 1 Owner, Sunroof, 360 Cameras",
-      "vin": "3GCUDHEL4PG348400",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/487f68bd48ff.html",
+      "name": "2023 Dodge Charger SRT Hellcat Widebody Jailbreak",
+      "vin": "2C3CDXL9XPH512279",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/32fc821c0a56.html",
       "year": 2023,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
+      "make": "Dodge",
+      "model": "Charger",
       "condition": "used",
-      "price": 54995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Pacifica ",
-      "vin": "2C4RC1BG1PR616773",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1be168669f53.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 Raptor -37 Performance Package, Manager Demo",
-      "vin": "1FTFW1RG8PFD25050",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/688487cd6445.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 92888.0,
+      "price": 89995.0,
       "price_currency": "CAD"
     },
     {
@@ -684,6 +988,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Mercedes-Benz EQE SUV 350 - No Accidents, 1 Owner, 360 Cams, Navigation",
+      "vin": "4JGGM1CB3PA021642",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c0a03aca1520.html",
+      "year": 2023,
+      "make": "Mercedes-Benz",
+      "model": "EQE",
+      "condition": "used",
+      "price": 58995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Mitsubishi Outlander PHEV GT Premium - Massage Seats, Head Up Display",
       "vin": "JA4T5VA9XPZ619696",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/6852981a66ea.html",
@@ -717,6 +1032,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Mitsubishi Outlander SEL",
+      "vin": "JA4J4UA80PZ616737",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/596cfe4bdb29.html",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Nissan Pathfinder SL - 360 Cameras, Sunroof, Heated Seats, Leather",
       "vin": "5N1DR3CE8PC250848",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b599d301dd3e.html",
@@ -728,25 +1054,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y ",
-      "vin": "LRWYGDEE9PC264964",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b1dce3d4915b.html",
+      "name": "2023 Rivian R1T Adventure - Navigation, 360 Cameras, Heated Seats",
+      "vin": "7FCTGAAA5PN018295",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/7124ff14cbe1.html",
       "year": 2023,
-      "make": "Tesla",
-      "model": "Model Y",
+      "make": "Rivian",
+      "model": "R1T Adventure - Navigation, 360 Cameras, Heated Seats",
       "condition": "used",
-      "price": 42995.0,
+      "price": 88995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X2 xDrive28i - Navigation, Panoramic Sunroof",
-      "vin": "WBX63GM00R5Z13381",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c6383d88b095.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X2",
+      "name": "2023 Volkswagen Taos ",
+      "vin": "3VVVX7B21PM359875",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/8f265f1921ec.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Taos",
       "condition": "used",
-      "price": 30888.0,
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Audi Q4 e-tron - Sunroof, Power Liftgate, Manager Demo",
+      "vin": "WA1G2AFZ1RP005078",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/f712e2b652ed.html",
+      "year": 2024,
+      "make": "Audi",
+      "model": "Q4 e-tron",
+      "condition": "used",
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -858,6 +1195,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Mazda Mazda3 Sedan GT - Navigation, 360 Cameras, Heated Steering",
+      "vin": "JM1BPBDY9R1658777",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/ed78128e3fe6.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mitsubishi Outlander PHEV SEL - Navigation, Power Liftgate, Leather",
+      "vin": "JA4T5VA97RZ621117",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/3372943df5c6.html",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Mitsubishi Outlander LE - Navigation, Power Liftgate, Sunroof",
       "vin": "JA4J4VA85RZ604107",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/77f614fafeb8.html",
@@ -877,28 +1236,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander GT - No Accidents, 1 Owner, Leather, Sunroof",
-      "vin": "JA4J4WA8XRZ606599",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/d5b97e920d76.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR ES - Heated Seats, Apple CarPlay, Android Auto",
-      "vin": "JA4AHUAU0RU610034",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9c671804ebd3.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 20888.0,
       "price_currency": "CAD"
     },
     {
@@ -935,6 +1272,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 RAM 3500",
+      "vin": "3C63R3PL1RG191397",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/5fadba378c5d.html",
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used"
+    },
+    {
       "name": "2024 Subaru Impreza RS - 1 Owner, Heated Seats, Sunroof, BlueTooth",
       "vin": "JF1GUHJC2R8863512",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/a459fb61a481.html",
@@ -957,14 +1303,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos Comfortline - Heated Steering Wheel, Heated Seats",
-      "vin": "3VVSX7B21RM094204",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/eb335898b58f.html",
+      "name": "2024 Toyota Tundra SR5",
+      "vin": "5TFLA5DB1RX154787",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/f0ba2d52d834.html",
       "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
+      "make": "Toyota",
+      "model": "Tundra",
       "condition": "used",
-      "price": 25995.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -979,25 +1325,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVCX7B20RM099303",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/09170f49b4cf.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Malibu Sedan LT - Heated Seats, Forward Collision Mitigation",
-      "vin": "1G1ZD5ST2SF134615",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9dcdda04596e.html",
+      "name": "2025 Chrysler Pacifica Limited - Leather, Navigation, Parking Sensors",
+      "vin": "2C4RC1GG8SR566729",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/99351357d53a.html",
       "year": 2025,
-      "make": "Chevrolet",
-      "model": "Malibu",
+      "make": "Chrysler",
+      "model": "Pacifica",
       "condition": "used",
-      "price": 24995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -1008,7 +1343,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 44995.0,
+      "price": 41888.0,
       "price_currency": "CAD"
     },
     {
@@ -1034,6 +1369,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Honda",
+      "vin": "JH2SC8767SK000083",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/d61339325ed0.html",
+      "year": 2025,
+      "make": "Honda",
+      "condition": "used"
+    },
+    {
       "name": "2025 Honda Pilot TrailSport - Leather, Sunroof, Power Liftgate",
       "vin": "5FNYG1H62SB512036",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0cd63a94345e.html",
@@ -1042,6 +1385,17 @@
       "model": "Pilot",
       "condition": "used",
       "price": 53995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Kona Preferred - Heated Steering Wheel, Heated Seats",
+      "vin": "KM8HBCAB5SU256849",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/41e421b8d628.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -1057,17 +1411,6 @@
     },
     {
       "name": "2025 Hyundai Venue Preferred - Heated Steering Wheel, Manager Demo",
-      "vin": "KMHRC8A38SU371887",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1a9cb952b033.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 21888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Venue Preferred - Heated Steering Wheel, Heated Seats",
       "vin": "KMHRC8A38SU364373",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/fbcd243c1daa.html",
       "year": 2025,
@@ -1096,7 +1439,29 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 33995.0,
+      "price": 32888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX - Leather, Sunroof, Heated Steering Wheel",
+      "vin": "KNDEUCAA9S7793957",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/940555d7c8ff.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX - Leather, Sunroof, Heated Steering Wheel",
+      "vin": "KNDEUCAA9S7793876",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1d923f67f0b4.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -1108,17 +1473,6 @@
       "model": "Sportage",
       "condition": "used",
       "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz CLA Coupe 250 - Sunroof, Navigation, Parking Sensors",
-      "vin": "W1K5J4HB5SN537569",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/4e5b6021fd03.html",
-      "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "CLA",
-      "condition": "used",
-      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
@@ -1144,6 +1498,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mitsubishi Eclipse Cross ES",
+      "vin": "JA4ATUAA3SZ620778",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/27932a7a8c34.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Mitsubishi Outlander GT Premium - No Accidents, 1 Owner, 360 Cams, Navi",
       "vin": "JA4J4WA89SZ618457",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/80bfda1dc429.html",
@@ -1162,7 +1527,27 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 22995.0,
+      "price": 21888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mitsubishi RVR",
+      "vin": "JA4AJVAW0SU603456",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/417bc14388bd.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Mitsubishi RVR SE AWC - No Accidents, 1 Owner, Heated Seats",
+      "vin": "JA4AJVAW3SU605802",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b5422fbc0776.html",
+      "year": 2025,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,7 +1569,7 @@
       "make": "Nissan",
       "model": "Ariya",
       "condition": "used",
-      "price": 39995.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -1221,28 +1606,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks S - No Accidents, Heated Seats, BlueTooth",
-      "vin": "3N8AP6BA3SL421570",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/523db8f8fc8b.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue S - Heated Steering Wheel, Heated Seats, BlueTooth",
-      "vin": "JN8BT3AB4SW426683",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/1919b159402b.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 24888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Rogue S - Local BC Vehicle, Heated Steering Wheel",
       "vin": "JN8BT3AB3SW426982",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/24466ffa1d89.html",
@@ -1250,18 +1613,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue SV - Sunroof, Heated Steering Wheel & Seats",
-      "vin": "JN8BT3BB1SW168654",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/85cafb41cab3.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 28995.0,
+      "price": 25888.0,
       "price_currency": "CAD"
     },
     {
@@ -1295,17 +1647,6 @@
       "model": "Versa",
       "condition": "used",
       "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Polestar 2 - Navigation, 360 Cameras, Manager Demo",
-      "vin": "YSMFE3KA3SL313701",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/9269077e0de1.html",
-      "year": 2025,
-      "make": "Polestar",
-      "model": "2 - Navigation, 360 Cameras, Manager Demo",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -1349,7 +1690,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 37995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -1372,6 +1713,50 @@
       "model": "Jetta",
       "condition": "used",
       "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline - No Accidents, Heated Steering Wheel",
+      "vin": "3VVUC7B24SM052104",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/aab1915cb022.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trax LT - Apple CarPlay, Android Auto, Heated Seats",
+      "vin": "KL77LHE22TC070498",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/b542a7e863ce.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford Expedition Active - Leather, Navigation, 360 Cameras",
+      "vin": "1FMJU1J85TEA32044",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/60539ed04bd7.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 76995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Terrain Elevation - Heated Steering Wheel, Navigation",
+      "vin": "3GKALUEG1TL306144",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c4bc6379359b.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "used",
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -3168,14 +3553,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Tesla Model 3 ",
-      "vin": "LRW3E7FA1TC838125",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/c1c0711ba1b9.html",
+      "name": "2026 Toyota RAV4 Hybrid LE - Heated Seats, Adaptive Cruise Control",
+      "vin": "2T36CRAV2TC018498",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/used/0244e4b819f6.html",
       "year": 2026,
-      "make": "Tesla",
-      "model": "Model 3",
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
       "condition": "used",
-      "price": 49995.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
