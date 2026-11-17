@@ -1,7 +1,7 @@
 {
   "dealership": "Tricity Mitsubishi",
-  "generated_at": "2026-11-17T10:45:08",
-  "vehicle_count": 343,
+  "generated_at": "2026-11-17T11:58:08",
+  "vehicle_count": 342,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1859,179 +1859,168 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Apple Carplay, FREE GAS FOR A YEAR!",
-      "vin": "JA4ATVAA3TZ604409",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/bb87d73ddebf.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "new",
-      "price": 34173.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, Employee Pricing!",
       "vin": "JA4ATVAA8TZ604213",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/a62108798661.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 37923.0,
+      "price": 36803.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross Noir - FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, Employee Pricing!",
       "vin": "JA4ATVAA7TZ604557",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/5deafabfc27c.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 37623.0,
+      "price": 36563.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross Noir - 360 Camera and FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross Noir - 360 Camera, Employee Pricing!",
       "vin": "JA4ATVAA5TZ604394",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/ae687bc9236a.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 37773.0,
+      "price": 36678.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Apple Carplay, FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Apple Carplay, Android Auto, Employee Pricing",
       "vin": "JA4ATVAA8TZ606253",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/b88b83ccd489.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 33873.0,
+      "price": 33097.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR A YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA1TZ606496",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/1ebfb0634fcf.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34723.0,
+      "price": 33820.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Heated Seats, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Heated Seats, Employee Pricing!",
       "vin": "JA4ATVAA2TZ611321",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/f49f42493d1b.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34573.0,
+      "price": 33695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA4TZ611806",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/99fb5bb8ea8c.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34573.0,
+      "price": 33695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, Employee Pricing!",
       "vin": "JA4ATVAA4TZ612504",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/d369e51abc7a.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 38323.0,
+      "price": 37176.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA6TZ614075",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/7ffa5e630402.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34723.0,
+      "price": 33820.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA8TZ615115",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/ec247965bf83.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34573.0,
+      "price": 33695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate",
       "vin": "JA4ATVAA5TZ615492",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/30464d5814b6.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34573.0,
+      "price": 33695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross GT - Multi View Cameras, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross GT - Multi View Cameras, Employee Pricing!",
       "vin": "JA4ATVAAXTZ615388",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/430f1bc1e180.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 40173.0,
+      "price": 38912.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA2TZ615692",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/45829b64397e.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34573.0,
+      "price": 33695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross Noir - Black Alloy Wheels, Employee Pricing!",
       "vin": "JA4ATVAAXTZ615150",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e6a2544773bd.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 38323.0,
+      "price": 37176.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
+      "name": "2026 Mitsubishi Eclipse Cross SE - Power Liftgate, Employee Pricing!",
       "vin": "JA4ATVAA8TZ616684",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/779689180c4b.html",
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "new",
-      "price": 34273.0,
+      "price": 33470.0,
       "price_currency": "CAD"
     },
     {
@@ -2120,17 +2109,6 @@
       "model": "Eclipse Cross",
       "condition": "new",
       "price": 34273.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Eclipse Cross ES - FREE GAS FOR A YEAR! Manager Demo",
-      "vin": "JA4ATUAA6TZ602339",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/15828101170f.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Eclipse Cross",
-      "condition": "new",
-      "price": 30373.0,
       "price_currency": "CAD"
     },
     {
@@ -2343,17 +2321,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV ES - Heated Seats, FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5UA91TZ622216",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/6890f6272506.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 49373.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander PHEV LE - FREE GAS FOR 2 YEARS!",
       "vin": "JA4T5VA9XTZ625055",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/9868789dd3ea.html",
@@ -2373,17 +2340,6 @@
       "model": "Outlander PHEV",
       "condition": "new",
       "price": 50573.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV GT - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA94TZ625266",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/4c2bd0d9844e.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 58723.0,
       "price_currency": "CAD"
     },
     {
@@ -2439,17 +2395,6 @@
       "model": "Outlander PHEV",
       "condition": "new",
       "price": 49673.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV Noir - Black Alloy Wheels, FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA90TZ624986",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/184a9dbff043.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 61623.0,
       "price_currency": "CAD"
     },
     {
@@ -2519,17 +2464,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE - Power Liftgate, FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5VA96TZ627157",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/49ad03ddff57.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 50573.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander PHEV LE - FREE GAS FOR 2 YEARS!",
       "vin": "JA4T5VA91TZ626675",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/8f363d6148db.html",
@@ -2574,17 +2508,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV SE - Power Liftgate, FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5VA9XTZ626920",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/3a43caf1c989.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 50873.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander PHEV Noir - Black Alloy Wheels, FREE GAS FOR 2 YEARS!",
       "vin": "JA4T5WA98TZ626792",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/4c6453c391c4.html",
@@ -2596,17 +2519,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander PHEV GT - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA93TZ626442",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/5a8dfbd129d0.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 58573.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander PHEV Noir - Black Alloy Wheels, FREE GAS FOR 2 YEARS!",
       "vin": "JA4T5WA98TZ626291",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/a3e62846564c.html",
@@ -2615,39 +2527,6 @@
       "model": "Outlander PHEV",
       "condition": "new",
       "price": 61623.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV LE - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5VA90TZ627042",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/19630a3c700b.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 53223.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV GT Premium - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA9XTZ626941",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/8f16c1bfab14.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 59823.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV GT Premium - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5WA98TZ626503",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/b6dc4341706e.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 60573.0,
       "price_currency": "CAD"
     },
     {
@@ -2670,17 +2549,6 @@
       "model": "Outlander PHEV",
       "condition": "new",
       "price": 60123.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander PHEV LE - FREE GAS FOR 2 YEARS!",
-      "vin": "JA4T5VA97TZ626339",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/2d5ab4fb3a48.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
-      "price": 52773.0,
       "price_currency": "CAD"
     },
     {
@@ -2860,6 +2728,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mitsubishi Outlander PHEV ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4T5UA90TZ628265",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e05c42f7ae32.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "new",
+      "price": 44754.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Outlander PHEV ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4T5UA93TZ628230",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/de97f7024345.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "new",
+      "price": 44404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Outlander PHEV GT Premium - Ventilated Seats, Employee Pricing!",
+      "vin": "JA4T5WA99TZ628745",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/ffcd053bd517.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "new",
+      "price": 57895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mitsubishi Outlander PHEV ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4T5UA90TZ628735",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/551a7d6832ca.html",
+      "year": 2026,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "new",
+      "price": 44404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mitsubishi Outlander GT - Navigation, FREE GAS FOR A YEAR!",
       "vin": "JA4J4WAB9TZ603258",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/1c1b90a5ca15.html",
@@ -2879,17 +2791,6 @@
       "model": "Outlander",
       "condition": "new",
       "price": 48023.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander GT Premium - Navigation, FREE GAS FOR A YEAR!",
-      "vin": "JA4J4WAB6TZ610197",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/1702d3c4a401.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 49023.0,
       "price_currency": "CAD"
     },
     {
@@ -3025,17 +2926,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander GT - Navi, 360 Cameras, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4J4WAB3TZ615809",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/d9c7e1304755.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 48023.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander Noir - Black Alloy Wheels, FREE GAS FOR 1 YEAR!",
       "vin": "JA4J4WAB6TZ615819",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/705046a8765a.html",
@@ -3058,17 +2948,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander LE - Navigation, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4J4VABXTZ618569",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/dcebd6e03abc.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 42373.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander GT - Navi, 360 Cameras, FREE GAS FOR 1 YEAR!",
       "vin": "JA4J4WABXTZ619078",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/19a00bbb042b.html",
@@ -3077,28 +2956,6 @@
       "model": "Outlander",
       "condition": "new",
       "price": 47273.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander SE - Power Liftgate, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4J4VAB0TZ618239",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/1f4ed4e01bc9.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 39273.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander LE - Navigation, FREE GAS FOR 1 YEAR!",
-      "vin": "JA4J4VAB6TZ618245",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0e4e4dab12bb.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 41923.0,
       "price_currency": "CAD"
     },
     {
@@ -3234,17 +3091,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander LE - Sunroof - FREE GAS FOR A YEAR!",
-      "vin": "JA4J4VAB9TZ621026",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/05c6f258e222.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 41923.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander LE - FREE GAS FOR A YEAR!",
       "vin": "JA4J4VAB0TZ621383",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e6f163ac4a2d.html",
@@ -3256,17 +3102,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mitsubishi Outlander LE - FREE GAS FOR A YEAR!",
-      "vin": "JA4J4VAB2TZ620932",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/377be121dd04.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 42073.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mitsubishi Outlander GT - Navigation, FREE GAS FOR A YEAR!",
       "vin": "JA4J4WAB8TZ620956",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/6da17e0f4e85.html",
@@ -3275,28 +3110,6 @@
       "model": "Outlander",
       "condition": "new",
       "price": 47573.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander Noir - FREE GAS FOR A YEAR!",
-      "vin": "JA4J4WAB4TZ620646",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/fa42446ac3dc.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 50373.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander LE - Navigation, FREE GAS FOR A YEAR!",
-      "vin": "JA4J4VAB1TZ621148",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/4b6bc38ffff5.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 42073.0,
       "price_currency": "CAD"
     },
     {
@@ -3319,17 +3132,6 @@
       "model": "Outlander",
       "condition": "new",
       "price": 48023.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi Outlander SE - Sunroof, FREE GAS FOR A YEAR!",
-      "vin": "JA4J4VAB7TZ621915",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/9fbb6b4ac465.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 38823.0,
       "price_currency": "CAD"
     },
     {
@@ -3488,17 +3290,6 @@
     },
     {
       "name": "2026 Mitsubishi RVR SE AWC - FREE GAS FOR 1 YEAR!",
-      "vin": "JA4AJVAWXTU607192",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0692ad23b467.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 30623.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi RVR SE AWC - FREE GAS FOR 1 YEAR!",
       "vin": "JA4AJVAW4TU607169",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/6999044c7651.html",
       "year": 2026,
@@ -3506,17 +3297,6 @@
       "model": "RVR",
       "condition": "new",
       "price": 30623.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mitsubishi RVR SE AWC - FREE GAS FOR 1 YEAR!",
-      "vin": "JA4AJVAW3TU608216",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/7628ca4746e5.html",
-      "year": 2026,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "new",
-      "price": 30773.0,
       "price_currency": "CAD"
     },
     {
@@ -3595,15 +3375,6 @@
       "condition": "new"
     },
     {
-      "name": "2027 Mitsubishi Eclipse",
-      "vin": "JN1MZ2HB0VM401320",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/cd0933b20791.html",
-      "year": 2027,
-      "make": "Mitsubishi",
-      "model": "Eclipse",
-      "condition": "new"
-    },
-    {
       "name": "2027 Mitsubishi Eclipse Eclipse Sportback EV Tech Package - Leather, Navi",
       "vin": "JN1MZ2HB1VM401620",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/837c37df341e.html",
@@ -3616,8 +3387,8 @@
     },
     {
       "name": "2027 Mitsubishi Eclipse Eclipse Sportback EV - 3D Multi View Camera System",
-      "vin": "JN1MZ2HB0VM401348",
-      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/c9f62a7144fe.html",
+      "vin": "JN1MZ2HB9VM401767",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e0a5f2a04b1b.html",
       "year": 2027,
       "make": "Mitsubishi",
       "model": "Eclipse Eclipse Sportback EV - 3D Multi View Camera System",
@@ -3666,6 +3437,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Mitsubishi Outlander GT Premium - Ventilated Seats, Navi, 360 Cameras",
+      "vin": "JA4J4WAB8VZ600841",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/7e916358e533.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "new",
+      "price": 52453.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi Outlander LE - Navigation, Power Liftgate, Sunroof",
+      "vin": "JA4J4VAB6VZ600525",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/e229971da3a2.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "new",
+      "price": 45603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi Outlander LE - Navigation, Power Liftgate, Sunroof",
+      "vin": "JA4J4VAB6VZ600489",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/611623ef3b3a.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "new",
+      "price": 45753.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Mitsubishi RVR ES AWC - FREE GAS FOR 1 YEAR!",
       "vin": "JA4AJUAU3VU601150",
       "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/ba2f3e4e47da.html",
@@ -3708,6 +3512,191 @@
       "condition": "new",
       "price": 29933.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU0VU603238",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/9499c869ee77.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAU8VU603119",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/cd15f88f0318.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 28206.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU4VU603209",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/30431a360c29.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU7VU603916",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/c1a3bf52a152.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU7VU603785",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/1ad19abeebcf.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAU3VU603917",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/7e5edaa157b2.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 28206.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU8VU603570",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0babf2faa4d7.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26265.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU6VU603471",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/76456aa7fd05.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAU3VU603674",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/af29796898bd.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 27966.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU3VU603590",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/b8e3d5d6a8ea.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26265.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU6VU603194",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/a6b831fa7bcc.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAU4VU603778",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0d147840fb69.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 28081.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAUXVU604028",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/9638d3831eab.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 27856.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAU9VU604047",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/0cd614255822.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES AWC - Heated Seats, Employee Pricing!",
+      "vin": "JA4AJUAU2VU604038",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/a3ba3cb429a3.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 28081.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES - Heated Seats, Employee Pricing!",
+      "vin": "JA4AHUAUXVU604073",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/3e49a7f4bdbf.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new",
+      "price": 26615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mitsubishi RVR ES",
+      "vin": "JA4AJUAU4VU604039",
+      "url": "https://willyml1979-dotcom.github.io/tricity-mitsubishi-mirror/new/75c614cdc1cb.html",
+      "year": 2027,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "new"
     }
   ]
 }
